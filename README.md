@@ -1,6 +1,8 @@
 Es una calculadora simple donde se pueden ejecutar operadores basicos.
 El resultado va a ser redondeado a 2 decimales.
 
+La estetica es algo en lo que debería continuar trabajando MUCHO más.
+
 Como observación todavia le falta agregar validaciones en los promps, estoy investigando al respecto.
 
 Con respecto al ejercicio 1.
